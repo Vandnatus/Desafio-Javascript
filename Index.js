@@ -1,3 +1,6 @@
+// tentei usar o switch case mas não consegui que comparasse números, pesquisei na internet 
+// mas não achei nenhum exemplo do comando comparando valores numéricos. Então usei o if else
+
 let heroi = "Aranha"
 let xp = 500
 if(xp < 1000){
@@ -25,5 +28,3 @@ if (xp > 9000 && xp < 10001){
 if (xp >= 10001){
 	console.log("Nível Radiante")
 }
-// tentei usar o switch case mas não consegui que comparasse números, pesquisei na internet 
-// mas não achei nenhum exemplo do comando comparando valores numéricos. Então usei o if else
